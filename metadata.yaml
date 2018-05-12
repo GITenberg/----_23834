@@ -1,0 +1,26 @@
+_repo: '----_23834'
+_version: 0.1.0
+alternative_title: Qing Xiang Za Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Chuhou, jin shi 1053
+    alias: 吳處厚
+    gutenberg_agent_id: '26067'
+    url: http://www.gutenberg.org/2009/agents/26067
+description: ''
+gutenberg_issued: '2007-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23834'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+- !lcc 'DS'
+title: 青箱雜記
+url: http://www.gutenberg.org/ebooks/23834
